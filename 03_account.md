@@ -104,8 +104,6 @@ Testnet
   - https://testnet.symbol.tools/
 
 Mainnet
-- NEMLOG
-  - https://nemlog.nem.social/
 - QUEST
   - https://quest-bc.com/
 
